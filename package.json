@@ -1,0 +1,11 @@
+{
+  "name": "Simple_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndersonLomba/Simple_API.git",
+  "author": "Anderson Lomba <60937513+LombaAnderson@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
